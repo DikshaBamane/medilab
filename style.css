@@ -1,20 +1,21 @@
 .photo {
-    background-image: url("./img/about.jpg");
+    background-image: url("./img/doctors/doctors-1.jpg");
     background-size: cover;
-    height: 30rem;
+    background-position: bottom;
+    height: 32rem;
       
 }
 .huro1{
   background-color: azure;
+ 
 }
 /* to change this with claSS */
 .home2{
     margin-top: 15rem;
     height: 30rem;
-    width: 30rem;
-    
-  
+    width: 30rem;  
 }
+
 .home{
     margin-top: 15rem;
     margin-bottom: 5rem;
@@ -44,8 +45,25 @@
   justify-content: center;
   background-color: azure;
 }
-a{
+a {
+  color:black ;
   text-decoration: none;
-  color: black;
-  
+  padding: 1rem; 
+}
+.myicons{
+  font-size: 30px !important;
+  color: rgb(19, 19, 20);
+}
+.ig{
+  font-size: 50px !important;
+  color: blue;
+  padding: 1rem;
+}
+.btn1{
+  background-color: rgb(84, 141, 192);
+  color: aliceblue;
+  border: none;
+}
+.dij{
+  color: aliceblue;
 }
